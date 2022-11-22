@@ -6,7 +6,7 @@
 * The code is written according to google style
 * Handling of exceptional situations
 * The program includes such operations on matrices as:
-  + Checks matrices for equality with each other - bool eq_matrix(const S21Matrix& other)
+  + Checks matrices for equality with each other - `bool eq_matrix(const S21Matrix& other)`
   + Adds the second matrix to the current one - void sum_matrix(const S21Matrix& other)
   + Subtracts another matrix from the current one - void sub_matrix(const S21Matrix& other)
   + Multiplies the current matrix by a number - void mul_number(const double num)
