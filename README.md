@@ -1,4 +1,3 @@
-# Matrix
 ![MATRIX](./images/matrix.jpeg)
 
 **This project is a class for convenient work with matrices and performing various operations with them.**
